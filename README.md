@@ -58,10 +58,12 @@ todo
 todo
 ### Hardware Setup
 
-<div align="center">
+<div align="center"> 
     <img src="./resource/pics/car.jpeg" alt="setup_car" width="100%"/>
-<div align="center" style="background-color: white">
-    <img src="./resource/pics/cad_setup.png" alt="setup_sensors" width="100%">
+</div>
+
+<div align="center">
+    <img src="./resource/pics/cad_setup.png" alt="setup_sensors" width="100%"/>
 </div>
 
 ### Sensor Specification
