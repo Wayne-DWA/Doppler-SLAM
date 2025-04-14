@@ -7,7 +7,7 @@
 *Note: Our paper is currently under review. The source code and dataset will be made available upon publication.*
 
 <div align="center">
-    <img src="./resource/pics/intro_doppler_slam.png" alt="Doppler-SLAM" width="100%"/>
+    <img src="resource/pics/intro_doppler_slam.png" alt="Doppler-SLAM" width="100%"/>
 </div>
 
 ## Demo
@@ -46,7 +46,7 @@
 Pipeline of Doppler-SLAM consists of four main modules: velocity filter, motion compensation, state estimation, and loop closure with graph optimization. The graph on the right illustrates the workflow of online extrinsic calibration between the IMU and either radar or LiDAR using graph optimization. In this approach, we combine the IMU pre-integration factor, odometry factor, and ego velocity factor to construct a factor graph. Once a loop closure factor is detected, additional optimization refines the extrinsic transformation.
 
 <div align="center">
-    <img src="./resource/pics/Doppler-SLAM-D-SLAM.png" alt="Doppler-SLAM-overview" width="100%"/>
+    <img src="resource/pics/Doppler-SLAM-D-SLAM.png" alt="Doppler-SLAM-overview" width="100%"/>
 </div>
 
 ## Usage
@@ -58,12 +58,16 @@ todo
 todo
 ### Hardware Setup
 
+**vehicle platform**
+
 <div align="center"> 
-    <img src="./resource/pics/car.jpeg" alt="setup_car" width="100%"/>
+    <img src="resource/pics/car.jpeg" alt="setup_car" width="100%"/>
 </div>
 
+**sensor platform**
+
 <div align="center">
-    <img src="./resource/pics/sensor_setup.png" alt="setup_sensors" width="100%"/>
+    <img src="resource/pics/sensor_setup.png" alt="setup_sensors" width="100%"/>
 </div>
 
 ### Sensor Specification
