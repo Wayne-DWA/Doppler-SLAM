@@ -28,7 +28,7 @@
     </tr>
         <tr>
           <td>
-            <img src="resource/pics/data_1.png" alt="doppler_slam_radar_full" width="100%" style="background-color: white;">
+            <img src="resource/pics/data_1.png" alt="doppler_slam_radar_full" width="100%" style="background-color: white">
             <p><em>Results of Doppler SLAM with 4D Radar on Sequence ""WoehrSee" from our IMADAR dataset.</em></p>
           </td>
         </tr>
@@ -60,10 +60,8 @@ todo
 
 <div align="center">
     <img src="./resource/pics/car.jpeg" alt="setup_car" width="100%"/>
-</div>
-
-<div align="center">
-    <img src="./resource/pics/cad_setup.png" alt="setup_sensors" width="100%" style="background-color: white" />
+<div align="center" style="background-color: white">
+    <img src="./resource/pics/cad_setup.png" alt="setup_sensors" width="100%">
 </div>
 
 ### Sensor Specification
