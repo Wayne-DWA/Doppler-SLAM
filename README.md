@@ -28,7 +28,7 @@
     </tr>
         <tr>
           <td>
-            <img src="resource/pics/data_1.png" alt="doppler_slam_radar_full" width="100%" style="background-color: white">
+            <img src="resource/pics/data_1.png" alt="doppler_slam_radar_full" width="100%">
             <p><em>Results of Doppler SLAM with 4D Radar on Sequence ""WoehrSee" from our IMADAR dataset.</em></p>
           </td>
         </tr>
