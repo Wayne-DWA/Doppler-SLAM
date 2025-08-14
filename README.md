@@ -55,7 +55,8 @@ todo
 
 ## Dataset
 
-todo
+The dataset can be downloaded from [link](https://robotik.informatik.uni-wuerzburg.de/telematics/3dscans/). Please refer to the README.md in the folder for instructions.
+
 ### Hardware Setup
 
 **vehicle platform**
