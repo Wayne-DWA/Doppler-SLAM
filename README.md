@@ -4,7 +4,7 @@
 
 **Doppler-SLAM** is a unified SLAM approach that combines a tightly-coupled front-end with a graph optimization back-end, seamlessly integrating IMU, 4D radar or FMCW LiDAR, and Doppler velocity measurements.
 
-*Note: Our paper is currently under review. The source code and dataset will be made available upon publication.*
+*News: Our paper has been accepted for publication in IEEE RA-L. The source code and dataset will be made publicly available here soon.*
 
 <div align="center">
     <img src="resource/pics/intro_doppler_slam.png" alt="Doppler-SLAM" width="100%"/>
